@@ -1,0 +1,11 @@
+{
+    "code": 0,
+    "msg": "鉴权成功",
+    "data": {
+        "nickName": "jd_qpdt89t6k63fob",
+        "liveUrl": "wss://live-ws1.jd.com",
+        "quicUrl": false,
+        "secretPin": "AN8on2jRY4+ZUqFgjACVJL4tBcb+XF9v6U4JxrYiqbw=",
+        "token": "amQubWFsbF9qZF83Y2QwNTMwMDQ0ZmM2XzE3NzUyMDQ2MTA5MTRodWVvNWk="
+    }
+}

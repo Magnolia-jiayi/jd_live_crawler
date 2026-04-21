@@ -1,0 +1,762 @@
+{
+    "code": "0",
+    "data": {
+        "currentTime": 1775203936834,
+        "currentCount": 118,
+        "lastAccessData": "[{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"24402439\",\"liveId\":\"44719089\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"179881\",\"liveId\":\"45097530\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"89972\",\"liveId\":\"44955871\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"83323\",\"liveId\":\"45042512\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"13122\",\"liveId\":\"44883022\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"21101497\",\"liveId\":\"44978188\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"591895\",\"liveId\":\"44592272\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"536673\",\"liveId\":\"45008206\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"143598\",\"liveId\":\"44966322\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"60811\",\"liveId\":\"44944345\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"118568\",\"liveId\":\"44648560\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"148744\",\"liveId\":\"44994165\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"106977\",\"liveId\":\"45084294\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"13205290\",\"liveId\":\"44962878\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"79851\",\"liveId\":\"45036851\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"99542\",\"liveId\":\"44780387\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"587399\",\"liveId\":\"44957438\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"85411\",\"liveId\":\"44936712\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"18358\",\"liveId\":\"45015870\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"604087\",\"liveId\":\"45002502\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"205480\",\"liveId\":\"44722024\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"94610\",\"liveId\":\"44938577\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"24496632\",\"liveId\":\"44870749\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"24492414\",\"liveId\":\"45086418\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"119305\",\"liveId\":\"45077224\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"131417\",\"liveId\":\"44910817\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"94916\",\"liveId\":\"44519974\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"150093\",\"liveId\":\"45082268\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"62821\",\"liveId\":\"45016052\",\"timestamp\":1775203936834},{\"templateType\":1002,\"hasBuryInfo\":\"1\",\"authorId\":\"22529723\",\"liveId\":\"44989044\",\"timestamp\":1775203936834}]",
+        "list": [
+            {
+                "templateType": 1002,
+                "cardId": "44719089",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44719089",
+                    "authorId": "24402439",
+                    "userName": "京东鞋靴采销",
+                    "userPic": "https://storage.360buyimg.com/i.imageUpload/d0acd1a5b2c9cffa31373338383334383432333734_big.jpg",
+                    "title": "骆驼x认养一头牛cp联合活动！",
+                    "pv": "72908",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/F1873E9FDA859DDD1C72EB6081B0AAA8_hd2000d.flv?auth_token=1775204236-0-0-05d23e25ff09b09ab14dd47e8cfb70b1",
+                        "hasPlayed": "0",
+                        "liveId": "44719089",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/413327/34/1073/121112/69cb77feF94c1ffeb/060332032033df10.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MjEsImlzR3VhcmFudGVlZCI6ImZhbHNlIn0=\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100264871662\",\"10094910807987\",\"100302824576\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44719089\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45097530",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45097530",
+                    "authorId": "179881",
+                    "userName": "恒洁京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/195389/29/42011/7799/65487533F1834db32/54389a21a9fd43e4.jpg.avif",
+                    "title": "直播间下单，今晚爆款抽7折",
+                    "pv": "11",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull.jdcloud.com/live/E470EA55E86771275F708529DFDDD3C6_fhd5.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45097530",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/403595/24/15305/132865/69ba3edeF67360404/0603320320d0e201.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJwbGFuSWQiOlsiRUNPTE9HWV9QTEFOXzIwMjYwNDAzXzIxNTUiXSwibmV3Q29udHJvbEZsb3ciOnRydWUsImRlbGl2ZXJNb2RlIjoyMSwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100014962847\",\"100242250291\",\"100211697976\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45097530\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44955871",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44955871",
+                    "authorId": "89972",
+                    "userName": "海尔京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/395597/6/1234/3179/69845352F158ad896/001e12c12c480a62.jpg.avif",
+                    "title": "海尔消嵌直播间下单抽大额红包",
+                    "pv": "5022",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/683EF51FC884050592503A2E13770397_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44955871",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/406372/16/20336/142595/69c324c4Fc9e6f3b7/06033203205b2a74.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100327052554\",\"100327052500\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44955871\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45042512",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45042512",
+                    "authorId": "83323",
+                    "userName": "英氏京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/222902/28/41724/15311/65683046Ffa781256/ebad1a139c067c2e.png.avif",
+                    "title": "单笔实付299元送露营吊床",
+                    "pv": "2109",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull.jdcloud.com/live/3E9F015474381EF4AA312CC47DBCBA55_fhd5.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45042512",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/343089/22/11486/116296/68ea4e5aFf23bc43d/563fb6623d028bb0.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100004039131\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45042512\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44883022",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44883022",
+                    "authorId": "13122",
+                    "userName": "OLAY玉兰油京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/235469/26/10761/4254/6593b953Fef4c1fd9/aba25792917fed08.jpg.avif",
+                    "title": "进直播加赠爆品！手慢无！",
+                    "pv": "3916",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/7D0A889B8E7325428CD75811F76E0562_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44883022",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/405912/40/19749/75242/69c13d3fFb3839397/0603320320826b2c.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100061888792\",\"100323943628\",\"100243084811\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44883022\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44978188",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44978188",
+                    "authorId": "21101497",
+                    "userName": "国家补贴X百亿补贴",
+                    "userPic": "https://storage.360buyimg.com/i.imageUpload/6a696e67646f6e676261697969627574696531373432393030373437353638_big.jpg",
+                    "title": "别笑，你来你也忍不住买第二件！",
+                    "pv": "3287",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/099D09F2BE3B5527BD2EA769FDF3B8F7_hd2000d.flv?auth_token=1775204236-0-0-990a858f88ffeee88e10bc3d922915ac",
+                        "hasPlayed": "0",
+                        "liveId": "44978188",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/410765/23/17782/162513/69ce2345F7d63ae7a/06033203204d54f1.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJwb29sSWQiOiIxMjE2IiwiZGVsaXZlck1vZGUiOjAsImlzR3VhcmFudGVlZCI6ImZhbHNlIn0=\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100185008619\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44978188\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44592272",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44592272",
+                    "authorId": "591895",
+                    "userName": "京东健康采销",
+                    "userPic": "https://storage.360buyimg.com/i.imageUpload/4a44d3aad1f8b1a3bda131373730353135383132393434_big.jpg",
+                    "title": "京东健康采销直播啦，真五折！",
+                    "pv": "40086",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/AFE61082319B534D1C62B149606AFDE3_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44592272",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/413976/33/4019/133123/69cf7274F96ba114a/0603320320d0f443.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MjEsImlzR3VhcmFudGVlZCI6ImZhbHNlIn0=\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"10159013758017\",\"100167510986\",\"10102950801276\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44592272\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45008206",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45008206",
+                    "authorId": "536673",
+                    "userName": "美的京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/53442/33/24972/4599/66a8bb9eF17e4189a/89451012d89150a3.jpg.avif",
+                    "title": "美的嵌入式直播抢福利",
+                    "pv": "438",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/9736C12996F2CA86F781F5798CE5A92E_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45008206",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/409556/12/14897/102529/69ca1209F8d76ad98/06033203200afe99.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100313053406\",\"100331751016\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45008206\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44966322",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44966322",
+                    "authorId": "143598",
+                    "userName": "雀巢母婴海外京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/134779/40/2357/27931/5ee87e9fEf8adb7a3/68565ae958705689.png.avif",
+                    "title": "直播间下单抢加赠好礼",
+                    "pv": "1520",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull.jdcloud.com/live/463DA010B8DDB90283AD6134A58B84E7_fhd5.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44966322",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/389216/24/15780/133629/6981d771Fef2ac286/0603320320186eb2.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100233663291\",\"100311812508\",\"100311394230\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44966322\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44944345",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44944345",
+                    "authorId": "60811",
+                    "userName": "全棉时代母婴京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/297651/37/16006/11497/684fe625F27991219/54ad3a47b0510e99.jpg.avif",
+                    "title": "直播实付满299元享双重礼赠！",
+                    "pv": "4212",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/5D3533D5F6929E9675FDE3019024A8B9_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44944345",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/410839/26/1867/145924/69c628ccFe05963b1/060332032041b6c0.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100247400003\",\"4982411\",\"100068084214\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44944345\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44648560",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44648560",
+                    "authorId": "118568",
+                    "userName": "华硕京东自营官方旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/227446/17/35829/5499/6763b7d5F35f5d671/0dce3b24eef19e3a.png.avif",
+                    "title": "春暖焕新 购机享好价",
+                    "pv": "88",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull.jdcloud.com/live/01873B943AF8DC9A02F661BA9A5BD946_fhd5.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44648560",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/403469/13/5511/142832/69b3c3d8F954c7d6b/06033203201dbde5.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100172948815\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44648560\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44994165",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44994165",
+                    "authorId": "148744",
+                    "userName": "石头科技京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t24775/110/847291369/16992/b431c470/5b7e4892N09d00b23.jpg.avif",
+                    "title": "石头洗地机直播间下单享好礼！",
+                    "pv": "5761",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull.jdcloud.com/live/5AA8DF5BCFE9A783F41E51113E6BD9E7_fhd5.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44994165",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/410192/7/7211/50422/69c904d2F8bd4be2a/060332032089175e.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100321424420\",\"100140657580\",\"100243910649\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44994165\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45084294",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45084294",
+                    "authorId": "106977",
+                    "userName": "Apple产品京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/209877/3/25564/7869/62fdebabEdceae4a7/0d757d8076b98466.jpg.avif",
+                    "title": "京东 Apple 周年特别活动",
+                    "pv": "15854",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/EF8410761143D508BF2EFD5BE310C1C4_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45084294",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/414476/8/591/9469/69ce6efcF16171b86/06033203209365b6.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100328650734\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45084294\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44962878",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44962878",
+                    "authorId": "13205290",
+                    "userName": "LA MER海蓝之谜京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/122271/18/23806/18445/620a212dE932ebc23/4ffac63b45a9a838.jpg.avif",
+                    "title": "新品油皮精萃乳重磅首发",
+                    "pv": "3820",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/DE222BD0F95295A9E53247F788A7F799_hd2000d.flv?auth_token=1775204236-0-0-12feda3f0620c531ca56949a43464e46",
+                        "hasPlayed": "0",
+                        "liveId": "44962878",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/407786/25/15791/160044/69c4f2ecF359d5902/0603320320ef720b.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100033031694\",\"100018643431\",\"100106687361\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44962878\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45036851",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45036851",
+                    "authorId": "79851",
+                    "userName": "自然堂京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/401832/24/11871/9177/69b11c9fF781c6e61/001e12c12c1d26eb.jpg.avif",
+                    "title": "进直播间下单抽正装！",
+                    "pv": "454",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/D77A37BF71375820E451A85AB626F13A_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45036851",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/404357/33/21592/32980/69c2656eF3730ba77/0603320320435b06.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100240054962\",\"100032167639\",\"100119755679\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45036851\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44780387",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44780387",
+                    "authorId": "99542",
+                    "userName": "佳贝艾特京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/jfs/t1/103058/8/4969/64995/5dea1ee2Ea3ba32f7/c8e0868f3747ef55.gif",
+                    "title": "直播囤奶享额外4重礼！",
+                    "pv": "6267",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/746B7D65B224D1247A87A8D9337BB005_hd2000d.flv?auth_token=1775204236-0-0-dc462ba2e01cb219c59326af748e5d2a",
+                        "hasPlayed": "0",
+                        "liveId": "44780387",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/399925/25/5387/89509/69a5238dF914f5bf5/06033203207d556b.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100239971286\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44780387\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44957438",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44957438",
+                    "authorId": "587399",
+                    "userName": "万益蓝WONDERLAB京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/325682/29/12546/6061/68b051f6F9fd80064/311a403c8eb43330.png.avif",
+                    "title": "进直播间下单抽盲盒大奖！",
+                    "pv": "211",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/FED497F32B63A7A451871156DE23F80D_hd2000d.flv?auth_token=1775204236-0-0-b8f0cbf7e41fb0c4a195be648f2dc5f4",
+                        "hasPlayed": "0",
+                        "liveId": "44957438",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/405442/14/20318/308344/69c0d27bF1064003d/0603320320da73ab.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100336378056\",\"100029954180\",\"100184517108\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44957438\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44936712",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44936712",
+                    "authorId": "85411",
+                    "userName": "科沃斯京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/230651/33/25473/5649/66a8948dF042d0a7b/c2f9e62461cde907.jpg.avif",
+                    "title": "新品震撼上市，限量抢！",
+                    "pv": "3735",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/5BE1F62B14EEEA1C8EA5855B567E4258_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44936712",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/399957/36/3952/38057/69a29365Fb2d62551/0603320320a36122.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100327073024\",\"100324090416\",\"100242875737\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44936712\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45015870",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45015870",
+                    "authorId": "18358",
+                    "userName": "博朗个人护理京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/138082/25/32303/4186/63d798aaF1e305e01/9e9f09f1da358165.jpg.avif",
+                    "title": "博朗抢9折补贴！限时抽6轮E卡",
+                    "pv": "4582",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/1EE2BF514E19AFE9A308D9FC86A8D000_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45015870",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/395783/8/16083/120612/69a25622F3771bda2/060332032046bb6f.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100292531244\",\"100292531160\",\"100189096561\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45015870\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45002502",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45002502",
+                    "authorId": "604087",
+                    "userName": "全棉时代卫生用品京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/287235/29/14028/11497/684fd8daFedceb011/89e595f5386b8982.jpg.avif",
+                    "title": "抢直播无门槛红包雨！",
+                    "pv": "5954",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/6BDD630273B781E929855A1B7A202228_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45002502",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/410500/19/10806/86959/69c9f0beF7bed958b/060332032066d6bb.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100325724900\",\"100013016974\",\"100015738164\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45002502\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44722024",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44722024",
+                    "authorId": "205480",
+                    "userName": "华凌京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/32629/36/5156/20988/5c83770cE0f6bbeb1/5ae271b16a7916fe.png.avif",
+                    "title": "华凌空调 下单享8.5折优惠",
+                    "pv": "7851",
+                    "videoTag": {
+                        "liveVideoUrl": "https://tx-pull-las.jdcloud.com/live/44722024_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44722024",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/411491/3/3483/103301/69c9dcfcFbbb0d55f/0603320320f57932.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100326975298\",\"100245038235\",\"100326975654\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44722024\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44938577",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44938577",
+                    "authorId": "94610",
+                    "userName": "明宝儿er",
+                    "userPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3434373361336139656636303431373639303634373539303037_big.jpg",
+                    "title": "好物焕新，大牌一元起",
+                    "pv": "2971",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/1926A034F07FA1EFA67CC6DC3EA315BC_hd2000d.flv?auth_token=1775204236-0-0-396714b449080401dfffd4ce45d428d3",
+                        "hasPlayed": "0",
+                        "liveId": "44938577",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/402945/8/4556/72712/69b10b3bF6fe62667/0603320320324785.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100156695139\",\"100268470986\",\"100206256143\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44938577\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44870749",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44870749",
+                    "authorId": "24496632",
+                    "userName": "京东平板",
+                    "userPic": "https://storage.360buyimg.com/i.imageUpload/c0b2d8adc0b2d8adc0b231373430333933323833343132_big.jpg",
+                    "title": "平板国补15%至高立省500元",
+                    "pv": "5489",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/D80581B9B51A2E4BECC80C46FF594789_hd2000d.flv?auth_token=1775204236-0-0-4769433074805c005279511850845ddf",
+                        "hasPlayed": "0",
+                        "liveId": "44870749",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/411137/11/4452/227635/69c8e522Fea639fd5/0603320320a2da6b.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"10213839208112\",\"10211834651629\",\"10211834651627\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44870749\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45086418",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45086418",
+                    "authorId": "24492414",
+                    "userName": "三吉黑花女装旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/240865/5/21002/3446/67208b0dF8d3248c6/057eb1556ccbf547.jpg.avif",
+                    "title": "今天的新品也太好看了~",
+                    "pv": "777",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/C14C95F3D7806104B5438173FA04BFF5_hd2000d.flv?auth_token=1775204236-0-0-4a713953d1315d6a352ff9a760350303",
+                        "hasPlayed": "0",
+                        "liveId": "45086418",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/411321/9/4000/122354/69c8b014Fc3005974/0603320320cadb6a.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"10144312431538\",\"10215060835610\",\"10214398156830\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45086418\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45077224",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45077224",
+                    "authorId": "119305",
+                    "userName": "Mistine京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/45689/35/17068/11973/6136c424E60a3d1e9/4664a82a894230bf.jpg.avif",
+                    "title": "蜜丝婷直播下单赢正装！",
+                    "pv": "1330",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/A9FBD1783CEF48BBDCC4C9EAFF5490AF_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45077224",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/408583/3/20155/93689/69ca0655F8d8ee276/0603320320850a7a.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936782,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100252310522\",\"100042249254\",\"100051248377\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45077224\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44910817",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44910817",
+                    "authorId": "131417",
+                    "userName": "海尔官方旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/239405/13/15620/5384/66a88aa7Fb5cf3aaf/408c04a977ec5bcb.jpg.avif",
+                    "title": "海尔冰箱 直播间领取10年延保",
+                    "pv": "2105",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull-las.jd.com/live/411E4E910E7182EC662F53D2C6C220B3_hd2000d.flv?auth_token=1775204236-0-0-bed463acb592a9f27ad0473addb4d2df",
+                        "hasPlayed": "0",
+                        "liveId": "44910817",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/408459/9/7880/81235/69c33269F92dc4255/060332032049288b.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936783,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"10210779245071\",\"10066144742584\",\"10210633186642\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44910817\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44519974",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44519974",
+                    "authorId": "94916",
+                    "userName": "君乐宝京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/43824/37/19741/25104/63218ec5E651866ad/483b619db5b38b6b.png.avif",
+                    "title": "宝宝口粮 直播间福利抢",
+                    "pv": "4453",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/47B4DFD3EDB3A32BBC64DC9F5E06C7AB_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44519974",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/409917/12/17793/210852/69cb6807Fe7243f3a/06033203201f61a6.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936783,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100288172230\",\"100287692682\",\"100248566494\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::44519974\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45082268",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45082268",
+                    "authorId": "150093",
+                    "userName": "巴拉巴拉京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/166330/10/29698/4539/668e1d16F8b0e5a9f/9e9e9281081ea0c5.jpg.avif",
+                    "title": "抢千款限时1件6折起",
+                    "pv": "2453",
+                    "videoTag": {
+                        "liveVideoUrl": "https://jdsecpull.jd.com/live/A0B04F316F78D4F6FB92A7AEF0EE07B9_fhd.flv?auth_token=1775204236-0-0-e6a19c254b033d249c4432fb61c19426",
+                        "hasPlayed": "0",
+                        "liveId": "45082268",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/411818/8/8381/223545/69ce480fFadfb9076/0603320320cb47f4.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936783,\"allTouchstoneExpids\":\"\",\"auxiInfo\":\"eyJkZWxpdmVyTW9kZSI6MCwiaXNHdWFyYW50ZWVkIjoiZmFsc2UifQ==\",\"biinfo\":\"eyJhYlRhZyI6eyJhbGdvRXhwSWRzIjoiSUVMRnxNSVhUQUdfSUVMRlIsSUVMRl9OX3JlY2FsbF9MOTc4NTAsSUVMRl9OX3JlcmFua19MOTg4NTUsSUVMRl9OX3Bvc3RyYW5rX0w5OTY4NixJRUxGX05fcmFua19MMTAwODkzLElFTEZfTl9wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX05fcHJlcmFua01vZGVsX1IsSUVMRl9OX0xpdmVTa3VSZWNhbGxfTDc3NzMzLElFTEZfTl9BQVRlc3RfTDc4NTI5LElFTEZfTl9maWx0ZXJfTDk4MTE1LElFTEZfTl9yZWNhbGxDb21wYXJlUHJpY2VfUixJRUxGX05fdHJhZmZpY0NvbnRyb2xfTDk1NTU3LElFTEZfU19yZWNhbGxfUixJRUxGX1NfcmFua19SLElFTEZfU19yZXJhbmtfUixJRUxGX1NfcG9zdHJhbmtfTDkxOTAzLElFTEZfU19wcmVyYW5rU3RyYXRlZ3lfUixJRUxGX1NfcHJlcmFua01vZGVsX1IsSUVMRl9TX2d1YXJhbnRlZWRfTEMsSUVMRl9TX0FBTGF5ZXJfTDg1NjY3LElFTEZfU190cmFmZmljQ29udHJvbF9MODYyNzMsSUVMRl9TX2ZpbHRlcl9MOTc3MjQsSUVMRl9TX3ZvdWNoZXJDb250cm9sX1IsSUVMRl9TX2JlZ2lubmVyR3VpZGVfTDg4NDY2LElFTEZfU19jb2xkU3RhcnRfUixJRUxGX1NfeWVhclNob3BwaW5nU2xpZGVfTDk0NDc1fCIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsIm1lcmdlQWxpYXMiOiJtZXJnZV92OF9saXZlX2h0IiwibWVyZ2VNZXRob2QiOiJyZWNvbW1lbmQiLCJiaXpJZCI6IjIwMDAwMDAxIiwibG9nSWQiOiIxMDEwNTM1MDkwMi0xMzE5NzAtMTc3NTIwMzkzNjQ4MyIsIm1lcmdlQXBpIjoiY29tLmpkLmdpZS5hcGkuZnJhbWV3b3JrLklSZWNvbW1lbmRTZXJ2aWNlIn0sInNlYXJjaGVyIjoiMSIsImV4cElkcyI6IklFfE1JWFRBR19JRVIsSUVfR1dfTDFfUixJRV9HV19MMl9MNzY5MjQsSUVfR1dfTDNfUixJRV9HV19MNV9MNTQ4MDQsSUVfR1dfTDRfUixJRV9HV19MNl9MNzE5MTYsSUVfR1dfcGxhdGZvcm1WZXJpZnlfUixJRV9HV19MN19SLElFX0dXX0w4X0w4MTc1NCxJRV9HV19MOV9SLElFX0dXX0wxMF9SLElFX0dXX01lcmdlQWxpYXNMYXllcl9SLElFX0dXX1BEUF9SfCIsImFiSW5mbyI6IiJ9\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100311839520\",\"100243767277\",\"100236808913\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0003::CCT-20241011-0003::1216#null#null#null&::&::LIVE_FBL::45082268\",\"poolId\":[],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "45016052",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "45016052",
+                    "authorId": "62821",
+                    "userName": "欧诗漫京东自营旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/6157/3/17207/12446/60ebf60bE14046dd2/8e454961cb885bc9.jpg.avif",
+                    "title": "进欧诗漫直播间抽免单！享加赠",
+                    "pv": "3944",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/3F5CF73AFAB236C2ED316D0115C32649_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "45016052",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/411842/36/4510/73579/69ca4453F1f066cf4/0603320320c812b2.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936783,\"allTouchstoneExpids\":\"jtContent_80348|base\",\"biinfo\":\"LTE=\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100310848696\",\"100204199713\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0004::CCT-20241011-0004::null::&::LIVE_STAND_BY::45016052\",\"poolId\":[\"1216\"],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            },
+            {
+                "templateType": 1002,
+                "cardId": "44989044",
+                "extra": null,
+                "pitId": null,
+                "index": null,
+                "authorCard": {
+                    "id": "44989044",
+                    "authorId": "22529723",
+                    "userName": "京东电器自营官方旗舰店",
+                    "userPic": "https://img30.360buyimg.com/popshop/s714x714_jfs/t1/315585/15/10306/5394/68516a2cFef370caf/14931a242ffb5ff7.jpg.avif",
+                    "title": "春日焕新家，美好恰如愿！",
+                    "pv": "3866",
+                    "videoTag": {
+                        "liveVideoUrl": "https://zt-pull-las.jdcloud.com/live/32B22CFA79C1063B75DBD9F3069587F5_hd2000d.flv",
+                        "hasPlayed": "0",
+                        "liveId": "44989044",
+                        "liveStatus": 1,
+                        "skuVideoUrl": null,
+                        "videoType": null
+                    },
+                    "indexImage": "https://m.360buyimg.com/livecms/s714x714_jfs/t1/410732/3/6126/158315/69c8abf6Fb21c0261/0603320320ed9592.png.avif",
+                    "buryInfo": "{\"accessServerTs\":1775203936783,\"allTouchstoneExpids\":\"jtContent_80348|base\",\"biinfo\":\"LTE=\",\"businessline\":\"JD_LIVE\",\"channel\":\"LIVEROOM\",\"channel_type\":\"1\",\"ext\":{\"skuIds\":[\"100125778054\",\"100108097237\",\"100129087520\"]},\"material_source\":\"BC\",\"material_type\":\"200\",\"modelFlag\":\"BPC-20241011-0002::BPC-20241011-0002::CCT-20241011-0003,CCT-20241011-0004::null&null&BPC-20241011-0002::CCT-20241011-0004::CCT-20241011-0004::null::&::LIVE_STAND_BY::44989044\",\"poolId\":[\"1216\"],\"requestId\":\"6985456.53843.17752039364788207\",\"stgInfo\":\"1#base\",\"subChannel\":\"CNXH\"}"
+                }
+            }
+        ]
+    },
+    "subCode": "0",
+    "tranceId": "6985456.53843.17752039364788207"
+}

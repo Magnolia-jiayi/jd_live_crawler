@@ -1,0 +1,406 @@
+# ws接口
+## 类型1
+{datetime: 1775096650778,…}
+body
+: 
+{message_num: "51", pv: "4646", groupid: "45020121", thumbs_up_num: "238", total_viwer: "5186",…}
+cart_num
+: 
+"7"
+current_viewer
+: 
+"30"
+groupid
+: 
+"45020121"
+max_viewer
+: 
+"43"
+message_num
+: 
+"51"
+pv
+: 
+"4646"
+thumbs_up_num
+: 
+"238"
+total_viwer
+: 
+"5186"
+datetime
+: 
+1775096650778
+from
+: 
+{app: "jd.live", pinmd5: "c5d87bdab86aa17c6663c3a693329a05", secretPin: "dAmgOQ1r8NLBuLUVYjfNAw=="}
+app
+: 
+"jd.live"
+pinmd5
+: 
+"c5d87bdab86aa17c6663c3a693329a05"
+secretPin
+: 
+"dAmgOQ1r8NLBuLUVYjfNAw=="
+msgSource
+: 
+0
+type
+: 
+"get_statistics_result"
+
+
+## 类型2，type= thumbs_up
+{datetime: 1775096650797,…}
+body
+: 
+{groupid: "45020121", thumbs_up_num: "238", type: "thumbs_up"}
+groupid
+: 
+"45020121"
+thumbs_up_num
+: 
+"238"
+type
+: 
+"thumbs_up"
+datetime
+: 
+1775096650797
+from
+: 
+{app: "jd.live", pinmd5: "c5d87bdab86aa17c6663c3a693329a05", secretPin: "dAmgOQ1r8NLBuLUVYjfNAw=="}
+app
+: 
+"jd.live"
+pinmd5
+: 
+"c5d87bdab86aa17c6663c3a693329a05"
+secretPin
+: 
+"dAmgOQ1r8NLBuLUVYjfNAw=="
+msgSource
+: 
+0
+type
+: 
+"chat_group_message"
+
+## 类型3，type=join_live_broadcast_summary
+{datetime: 1775096650813,…}
+body
+: 
+{joinUserNum: "1", nickName: "jd_qpdt89t6k63fob",…}
+content
+: 
+"jd_qpdt89t6k63fob来了"
+groupid
+: 
+"45020121"
+joinReservationUserStatus
+: 
+"0"
+joinUser
+: 
+"AN8on2jRY4+ZUqFgjACVJL4tBcb+XF9v6U4JxrYiqbw="
+joinUserNum
+: 
+"1"
+loveLevel
+: 
+"1"
+nickName
+: 
+"jd_qpdt89t6k63fob"
+type
+: 
+"join_live_broadcast_summary"
+datetime
+: 
+1775096650813
+from
+: 
+{app: "jd.live", pinmd5: "c5d87bdab86aa17c6663c3a693329a05", secretPin: "dAmgOQ1r8NLBuLUVYjfNAw=="}
+app
+: 
+"jd.live"
+pinmd5
+: 
+"c5d87bdab86aa17c6663c3a693329a05"
+secretPin
+: 
+"dAmgOQ1r8NLBuLUVYjfNAw=="
+msgSource
+: 
+0
+type
+: 
+"chat_group_message" 
+
+## 类型4，type=jdlive_refresh_cart
+{datetime: 1775096651014, intv: "2", needAck: true,…}
+body
+: 
+{data: {explainWeight: "1000000", actionType: "7", noRefreshSkuCard: "0", delayTime: "1500",…},…}
+assignMsgId
+: 
+"cb02fa6e-81ef-401a-85cf-34f250071844"
+data
+: 
+{explainWeight: "1000000", actionType: "7", noRefreshSkuCard: "0", delayTime: "1500",…}
+actionType
+: 
+"7"
+businessType
+: 
+"4"
+delayTime
+: 
+"1500"
+explainWeight
+: 
+"1000000"
+noRefreshSkuCard
+: 
+"0"
+skuCard
+: 
+{skuSeenStatus: "0", activity: {activityType: "1", content: "领劵拍2件, 单包约1.77"}, space8: {},…}
+activity
+: 
+{activityType: "1", content: "领劵拍2件, 单包约1.77"}
+addCartBtnTag
+: 
+{addCartParam: {supperRoomPromo: "4",…}, addCartBtn: "1"}
+btnActionTag
+: 
+{buyBtn: "1", buyBtnText: "购买", clickable: "1",…}
+businessTag
+: 
+{,…}
+componentName
+: 
+"LiveCartCell"
+explainAsk
+: 
+{vid: "null", slot2RightType: "1", askQuesBtn: "1", askQuesBtnText: "提问", explainStatus: "3",…}
+imgTag
+: 
+{imgTagType: "1", imgTagUiType: "1", sort: "75"}
+jump
+: 
+{des: "productDetail",…}
+mtaInfo
+: 
+{,…}
+priceContent
+: 
+{selfPriceStatus: "0", price: "¥58.13", textColor: "#FA2C19", priceUiType: "0"}
+score
+: 
+"1010128.0"
+skuId
+: 
+"100019264950"
+skuImg
+: 
+"https://img30.360buyimg.com/mobilecms/s357x357_jfs/t1/413031/8/2305/194372/69cba181F37ce0f6c/0083320320e23763.jpg.avif"
+skuImgType
+: 
+"17"
+skuSeenStatus
+: 
+"0"
+skuStatus
+: 
+"0"
+skuType
+: 
+"0"
+space5
+: 
+{,…}
+space8
+: 
+{}
+templateId
+: 
+"1"
+title
+: 
+"维达（Vinda）抽纸【孙颖莎推荐】 棉韧3层100抽*24包M码 餐巾纸纸抽 纸巾 整箱"
+titleLines
+: 
+"2"
+top
+: 
+0
+skuId
+: 
+"100019264950"
+groupid
+: 
+"45020121"
+intv
+: 
+"2"
+needAck
+: 
+true
+ts
+: 
+1775096648897
+type
+: 
+"jdlive_refresh_cart"
+datetime
+: 
+1775096651014
+from
+: 
+{app: "jd.live", pinmd5: "07665c24c145e8138c622c16ddb7fb22", secretPin: "lN8NknKpNHrHa0YUU6dLtg=="}
+id
+: 
+"cb02fa6e-81ef-401a-85cf-34f250071844"
+intv
+: 
+"2"
+msgSource
+: 
+0
+needAck
+: 
+true
+ts
+: 
+1775096648897
+type
+: 
+"chat_group_message"
+
+## 类型5，type=new_anchor_cart_number
+{datetime: 1775096651231,…}
+body
+: 
+{number: 132, groupid: "45020121", needAck: false, type: "new_anchor_cart_number"}
+groupid
+: 
+"45020121"
+needAck
+: 
+false
+number
+: 
+132
+type
+: 
+"new_anchor_cart_number"
+datetime
+: 
+1775096651231
+from
+: 
+{app: "jd.live", pinmd5: "07665c24c145e8138c622c16ddb7fb22", secretPin: "lN8NknKpNHrHa0YUU6dLtg=="}
+app
+: 
+"jd.live"
+pinmd5
+: 
+"07665c24c145e8138c622c16ddb7fb22"
+secretPin
+: 
+"lN8NknKpNHrHa0YUU6dLtg=="
+msgSource
+: 
+0
+type
+: 
+"chat_group_message"
+
+## 类型6，type=anchor_new_popup_product
+{datetime: 1775096652106, intv: "5", needAck: true,…}
+body
+: 
+{bType: "anchor_new_popup_product_V12010",…}
+assignMsgId
+: 
+"33b0067c-22ee-4ccf-82b2-a714b6eabaa5"
+bType
+: 
+"anchor_new_popup_product_V12010"
+data
+: 
+{grayValue: 100, popupSkuCardV2: {displayTime: -1, explainStatus: "3", skuStatus: "0",…},…}
+checkPrice
+: 
+"1"
+componentName
+: 
+"2"
+delayTime
+: 
+500
+extData
+: 
+"{\"sku\":\"100019264950\",\"preSale\":0,\"skuMark\":\"73984\",\"shopId\":\"1000001683\",\"isYys\":\"0\"}"
+grayValue
+: 
+100
+needVRData
+: 
+"0"
+popupCardVO
+: 
+{displayTime: -1, explainStatus: "3", coupon: {}, skuStatus: "0",…}
+popupSkuCardV1
+: 
+{displayTime: -1, explainStatus: "3", skuStatus: "0", imgTag: {tagContent: "讲解中", sort: "75"},…}
+popupSkuCardV2
+: 
+{displayTime: -1, explainStatus: "3", skuStatus: "0",…}
+triggerType
+: 
+"0"
+groupid
+: 
+"45020121"
+intv
+: 
+"5"
+needAck
+: 
+true
+pass_through
+: 
+true
+ts
+: 
+1775096646557
+type
+: 
+"anchor_new_popup_product"
+datetime
+: 
+1775096652106
+from
+: 
+{app: "jd.live", pinmd5: "07665c24c145e8138c622c16ddb7fb22", secretPin: "lN8NknKpNHrHa0YUU6dLtg=="}
+id
+: 
+"33b0067c-22ee-4ccf-82b2-a714b6eabaa5"
+intv
+: 
+"5"
+msgSource
+: 
+0
+needAck
+: 
+true
+ts
+: 
+1775096646557
+type
+: 
+"chat_group_message"
